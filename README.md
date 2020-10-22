@@ -5,6 +5,6 @@
 
 - Created using no third-party dependencies
 
--No actual persistence
+- No actual persistence
 
--
+- You can get data from this API and post data to this API
